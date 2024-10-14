@@ -1,4 +1,4 @@
-# Dokumentasi Pengujian SIM7000G pada LilyGO T-SIM7000G
+# Network Testing SIM7000G pada LilyGO T-SIM7000G
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menginisialisasi dan menguji modem **SIM7000G** yang terpasang pada **LilyGO T-SIM7000G**. Pengujian ini mencakup pengecekan sinyal, preferensi jaringan, serta kemampuan modem untuk terhubung ke jaringan GSM/LTE.
