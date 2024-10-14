@@ -3,7 +3,7 @@
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menginisialisasi dan menguji modem **SIM7000G** yang terpasang pada **LilyGO T-SIM7000G**. Pengujian ini mencakup pengecekan sinyal, preferensi jaringan, serta kemampuan modem untuk terhubung ke jaringan GSM/LTE.
 
-Kode .ino untuk network testing ini dapat ditemukan di [Network Testing LilyGO T-SIM7000G]()
+Kode .ino untuk network testing ini dapat ditemukan di [Network Testing LilyGO T-SIM7000G](https://github.com/FarrelAN/trackguard-FE/blob/main/Trackguard%20Internet%20Testing/network_testing/network_test.ino)
 
 ### Perangkat yang Digunakan
 - LilyGO T-SIM7000G
