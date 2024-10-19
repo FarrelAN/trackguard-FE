@@ -419,8 +419,8 @@ const char gprsUser[] = "3gprs";
 const char gprsPass[] = "3gprs";
 
 // WiFi credentials
-const char* ssid = "ADVAN CPE QNLP";     // Set to your Wi-Fi SSID
-const char* password = "tr1ar1esta"; // Set to your Wi-Fi Password
+const char* ssid = "ketum";     // Set to your Wi-Fi SSID
+const char* password = "satu2345"; // Set to your Wi-Fi Password
 
 #include <TinyGsmClient.h>
 #include <WiFi.h>  // Include WiFi library for ESP32
